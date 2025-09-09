@@ -3,7 +3,7 @@ import aiohttp
 import os
 from discord.ext import commands, tasks
 
-TOKEN = os.environ['DISCORD_TOKEN']
+TOKEN = os.environ['MTM3MDUxOTA1MDYxODQwOTAxMg.GaZJAx.MVr3JCiZd4LlUFsuxF7u5w7RcslY20JXqMM17E']
 CHANNEL_ID = 1414364162079068263
 API_URL = "http://95.141.32.116:8704/api/live-timings/leaderboard.json"
 
